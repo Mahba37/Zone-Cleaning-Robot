@@ -1,0 +1,8 @@
+prefix=/home/seele/catkin_ws/devel
+
+Name: simple_autonomous_turtlebot
+Description: Description of simple_autonomous_turtlebot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

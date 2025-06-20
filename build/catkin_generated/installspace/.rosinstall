@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/seele/catkin_ws/install/setup.sh

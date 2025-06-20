@@ -1,0 +1,2 @@
+aws-robomaker-small-house-world:simple_autonomous_turtlebot
+-DCATKIN_DEVEL_PREFIX=/home/seele/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/seele/catkin_ws/install -G Unix Makefiles
